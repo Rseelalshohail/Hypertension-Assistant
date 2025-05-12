@@ -45,3 +45,20 @@ The project was conducted in two main stages:
 - Integrate chatbot systems with hospital record systems for greater continuity of care.
 
 ## 📸 Screenshots
+
+<img width="229" alt="Screenshot 1446-11-14 at 2 37 54 PM" src="https://github.com/user-attachments/assets/de5902da-272e-4564-ac7a-6990ab82c6a2" />
+<img width="255" alt="Screenshot 1446-11-14 at 2 38 18 PM" src="https://github.com/user-attachments/assets/53fe44d4-5a06-4106-900c-2f715d61ceea" />
+<img width="255" alt="Screenshot 1446-11-14 at 2 38 41 PM" src="https://github.com/user-attachments/assets/40aebba6-106b-422e-a2d6-cd060901861e" />
+<img width="255" alt="Screenshot 1446-11-14 at 2 39 09 PM" src="https://github.com/user-attachments/assets/b0a12585-a4f2-43c6-9569-ba21cbab9362" />
+<img width="255" alt="Screenshot 1446-11-14 at 2 39 22 PM" src="https://github.com/user-attachments/assets/abaf2128-1105-4a21-b8df-d111b7adb419" />
+<img width="255" alt="Screenshot 1446-11-14 at 2 39 43 PM" src="https://github.com/user-attachments/assets/605924f9-6118-4484-9947-97effecb4bd0" />
+<img width="255" alt="Screenshot 1446-11-14 at 2 39 56 PM" src="https://github.com/user-attachments/assets/3a676f1b-106e-4eed-8077-905271d1f4c5" />
+<img width="255" alt="Screenshot 1446-11-14 at 2 40 10 PM" src="https://github.com/user-attachments/assets/914b2acb-9c0f-4a57-8ae7-ebd64f95c6d7" />
+<img width="255" alt="Screenshot 1446-11-14 at 2 40 24 PM" src="https://github.com/user-attachments/assets/6ab6517e-c623-4984-8a2b-ea78684d2ba7" />
+
+
+
+
+
+
+
